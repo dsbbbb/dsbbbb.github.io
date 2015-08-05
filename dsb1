@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<article class="page">
+
+  <h1>{{ page.this is testing work? }}</h1>
+what is happening?
+  <div class="entry">
+    {{ content }}
+  </div>
+</article>
